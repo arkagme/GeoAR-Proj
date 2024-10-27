@@ -7,7 +7,7 @@ Geography is a foundational topic that introduces students to the physical, envi
 This gap underscores the need for innovative educational tools. An augmented reality (AR) application focused on geography could bring the world directly to students’ fingertips, offering interactive, visual aids that make learning about any location—from topography to cultural landmarks—engaging and memorable. Such an app would empower students to explore the intricacies of Indian geography in an immersive way, potentially transforming their comprehension and interest in the subject.
 
 ## Get the APK
-The app can be found in the <b>Final App<b> folder of this repository. You can install it from there or the drive link mentioned here: [Geo AR - App](https://drive.google.com/drive/u/1/folders/1QNVoDRgRE2j0XtMhe5D_VXbh7ThTv6tO)
+The app can be found in the <b>Final App<b> folder of this repository. You can install it from there or the drive link mentioned here: [GeoAR - App](https://drive.google.com/drive/u/1/folders/1QNVoDRgRE2j0XtMhe5D_VXbh7ThTv6tO)
 
 
 ## Usage Instructions
